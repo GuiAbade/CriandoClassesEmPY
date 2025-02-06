@@ -36,7 +36,7 @@ def aplicar_penalizacao_carteira(nivel_multa):
 velocidade_maxima = 100
 multa_leve = 180
 multa_grave = 550
-multa_gravissima = 15000
+multa_gravissima = 1500
 '''
 # Para usar uma classe, é necessário "instanciar" ela
 # CamelCase
